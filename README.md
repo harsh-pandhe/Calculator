@@ -57,16 +57,16 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-![Calculator in Dark Mode](images/img_01.png)
+![Calculator in Dark Mode](images/img_01.jpeg)
 *Calculator in Dark Mode*
 
-![Calculator in Dark Mode](images/img_02.png)
+![Calculator in Dark Mode](images/img_02.jpeg)
 *Calculator in Light Mode*
 
-![Calculating in Light Mode](images/img_03.png)
+![Calculating in Light Mode](images/img_03.jpeg)
 *Calculating in Light Mode*
 
-![Calculating in Dark Mode](images/img_04.png)
+![Calculating in Dark Mode](images/img_04.jpeg)
 *Calculating in Dark Mode*
 
 ## License
